@@ -30,7 +30,7 @@
 </template>
 
 <script>
-    import {Card, handleCardPayment} from 'vue-stripe-elements-plus'
+    // import {Card, handleCardPayment} from 'vue-stripe-elements-plus'
     import {mapGetters, mapActions, mapMutations} from 'vuex'
 
     export default {
